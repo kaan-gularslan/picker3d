@@ -10,6 +10,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c554c9a6609f4616bef25540158de33c26400/a8/20150137/ParticleSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Abstract/SingletonMonoObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Data/ValueObjects/NotionData/CreatePageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.visualstudio@2.0.22/Editor/Testing/TestStatusAdaptor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/UnityEvent/UnityEventInvoke.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -28,6 +35,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -88,7 +96,13 @@
       <workItem from="1699990784351" duration="109000" />
       <workItem from="1700066602662" duration="3857000" />
       <workItem from="1700162065943" duration="3421000" />
-      <workItem from="1700213020137" duration="18162000" />
+      <workItem from="1700213020137" duration="19632000" />
+      <workItem from="1700297995920" duration="14251000" />
+      <workItem from="1700320320804" duration="11431000" />
+      <workItem from="1700382995079" duration="3710000" />
+      <workItem from="1700388495037" duration="87000" />
+      <workItem from="1700388601508" duration="4743000" />
+      <workItem from="1700927603114" duration="7285000" />
     </task>
     <servers />
   </component>
